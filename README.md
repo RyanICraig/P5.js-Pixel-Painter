@@ -1,7 +1,8 @@
 # P5.js-Pixel-Painter
 Pixel Painter Project.
 
-This project was creating using the p5.js library. 
+This project was creating using the p5.js library. <br />
+Check it out here: https://ryanicraig.github.io/P5.js-Pixel-Painter/index.html
 
 Features: <br />
   • 15 x 15 pixel grid. <br />
